@@ -23,13 +23,13 @@ $ python get_top.py
 本文使用的是刘知远老师提供的[预训练模型文件](https://github.com/thunlp/OpenCLaP)。
 
 ### 数据集
-  #### 一
+  #### 一、类案匹配
   类案匹配使用数据集来自[法研杯2019](https://github.com/china-ai-law-challenge/CAIL2019)官方Github，详细信息可见论文：
 
   >[1].  XIAO C, ZHONG H, GUO Z, et al. Cail2019-scm: A dataset of similar case matching in legal domain[J]. arXiv preprint arXiv:1911.08962, 2019.
 
 
-  #### 二
+  #### 二、类案推荐
   [法研杯2018](https://github.com/china-ai-law-challenge/CAIL2018)官方Github，详细信息可见论文：
 
   >[2].  XIAO C, ZHONG H, GUO Z, et al. Cail2018: A large-scale legal dataset for judgment prediction[J]. arXiv preprint arXiv:1807.02478, 2018.
