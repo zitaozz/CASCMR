@@ -72,13 +72,13 @@ tester = Tester(
 )
 
 # tester.eval()
-test_probs_6920 = tester.test()
+test_probs_model = tester.test()
 
 test_probs = []
 correct = 0
-for i in range(len(test_probs_6920)):
+for i in range(len(test_probs_model)):
     probs = (
-        test_probs_6920[i]
+        test_probs_model[i]
     )
     test_probs.append(probs)
     if probs <= 0:
